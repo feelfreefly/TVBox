@@ -62,17 +62,17 @@
 {"v":"99re/kdw-yibendao","n":"一本道"},
 {"v":"99re/kdw-jialebi","n":"加勒比"},
 {"v":"99re/kdw-chengrendongman","n":"成人动漫"},
-{"v":"99re/hj-eb","n":"口爆颜射"},
-{"v":"99re/hj-cb","n":"会员认证作品"},
-{"v":"99re/hj-nb","n":"三级片"},
+{"v":"99re/kdw-koubaoyanshe","n":"口爆颜射"},
+{"v":"99re/kdw-huiyuanrenzhengzuopin","n":"会员认证作品"},
+{"v":"99re/kdw-sanjipian","n":"三级片"},
 {"v":"99re/kdw-SMxingnue","n":"SM性虐"},
 {"v":"99re/kdw-chaochui","n":"潮吹"},
 {"v":"99re/kdw-gangjiao","n":"肛交"},
-{"v":"99re/hj-mb","n":"韩国综合"},
-{"v":"99re/hj-ib","n":"女主播系列"},
-{"v":"99re/hj-hb","n":"小格式综合"},
-{"v":"99re/hj-db","n":"制服丝袜"},
-{"v":"99re/hj-ob","n":"VR专区"}
+{"v":"99re/kdw-hanguozonghe","n":"韩国综合"},
+{"v":"99re/kdw-hanguonvzhuboxilie","n":"女主播系列"},
+{"v":"99re/kdw-xiaogeshizonghe","n":"小格式综合"},
+{"v":"99re/kdw-zhifusiwa","n":"制服丝袜"},
+{"v":"99re/kdw-VRzhuanqu","n":"VR专区"}
 ]
 }
 ],
@@ -83,16 +83,16 @@
 "name":"类型",
 "value":[
 {"v":"","n":"全部"},
-{"v":"gccm/jk-b","n":"综合传媒"},
-{"v":"gccm/jk-c","n":"91制片厂"},
-{"v":"gccm/jk-l","n":"杏吧原创"},
-{"v":"gccm/jk-q","n":"糖心Vlgo"},
-{"v":"gccm/jk-d","n":"天美传媒"},
-{"v":"gccm/jk-e","n":"蜜桃传媒"},
-{"v":"gccm/jk-g","n":"星空传媒"},
-{"v":"gccm/jk-h","n":"精东影业"},
-{"v":"gccm/jk-k","n":"兔子先生"},
-{"v":"gccm/jk-n","n":"大象传媒"}
+{"v":"gccm/91-zonghechuanmei","n":"综合传媒"},
+{"v":"gccm/91-91zhipianchang","n":"91制片厂"},
+{"v":"gccm/91-xingbayuancbuang","n":"杏吧原创"},
+{"v":"gccm/91-tangxinVlgo","n":"糖心Vlgo"},
+{"v":"gccm/91-tianmeichuanmei","n":"天美传媒"},
+{"v":"gccm/91-mitaochuanmei","n":"蜜桃传媒"},
+{"v":"gccm/91-xingkongchuanmei","n":"星空传媒"},
+{"v":"gccm/91-jingdongyingye","n":"精东影业"},
+{"v":"gccm/91-tuzixiansheng","n":"兔子先生"},
+{"v":"gccm/91-daxiangchuanmei","n":"大象传媒"}
 ]
 }
 ],
@@ -111,7 +111,7 @@
 {"v":"fcw/ff-chengrendongman","n":"成人动漫"},
 {"v":"fcw/ff-oumei","n":"欧美"},
 {"v":"fcw/ff-hanguozonghe","n":"韩国综合"},
-{"v":"fcw/gh","n":"VR专区"}
+{"v":"fcw/ff-VRzhuanqu","n":"VR专区"}
 
 ]
 }
@@ -143,7 +143,7 @@
 "name":"类型",
 "value":[
 {"v":"","n":"全部"},
-{"v":"avjs/kl-u","n":"水果πAV解说"}
+{"v":"avjs/sgp-AVJS","n":"水果πAV解说"}
 
 
 ]
