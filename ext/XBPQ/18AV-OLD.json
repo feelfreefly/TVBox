@@ -11,10 +11,10 @@
 "标题":"<h3 itemprop=\"name headline\">&&</h3>",
 "链接":"href=\"&&\"",
 "副标题":"meta\">&&<",
-#"分类url": "https://maa1818.com/zh/{cateId}/all/{catePg}.html",
-#"分类url": "https://maa1808.com/zh/{cateId}/all/{catePg}.html",
-#"分类url": "https://maa1830.com/zh/{cateId}/all/{catePg}.html",
-"分类url": "https://mjv002.com/zh/{cateId}/all/{catePg}.html",
-"分类": "中文字幕AV1&中文字幕AV2&日本无码AV&H动画&国产自拍",
-"分类值": "chineseonly_search&fc_search&uncensoredonly_search&animationonly_search&dt_search"
+
+  "分类url": "https://mjv002.com/zh/{cateId}/all/{catePg}.html",
+
+  "分类": "中文字幕AV1&中文字幕AV2&日本无码AV&H动画&国产自拍",
+
+  "分类值": "chineseonly_search&fc_search&uncensoredonly_search&animationonly_search&dt_search"
 }
