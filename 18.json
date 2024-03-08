@@ -12,7 +12,8 @@
 {"key":"hsck.cc",			"name":"hsck.cc",		"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/hsck1.json"},
 {"key":"大炮色",		"name":"大炮色",	"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/大炮色.json"},
 {"key":"新香蕉",		"name":"新香蕉",	"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/新香蕉.json"},
-{"key":"色花堂",		"name":"色花堂",	"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/色花堂.json"}
+{"key":"新香蕉ppzz",		"name":"新香蕉",	"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/新香蕉1.json"},
+  {"key":"色花堂",		"name":"色花堂",	"type":3,	"api":"csp_XBPQ",	"ext":"./ext/XBPQ/色花堂.json"}
 ],
 
 "ijk":[
