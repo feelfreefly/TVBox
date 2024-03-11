@@ -11,7 +11,7 @@
 "线路数组":"line\">&&</div>",
 "播放数组":"line\">&&</div>",
 //"分类url":"/gaotype/{cateId}_{catePg}.html",
-  
+//下面这一句非常重要，语法也很怪，但一个字都不能省
 "分类url":"https://19gaoab.com/gaotype/{cateId}_{catePg}.html[https://19gaoab.com/gaotype/{cateId}.html",
 "分类二次截取":"content'>&&</div></div>",
 "分类数组":"<a&&a>",
