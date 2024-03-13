@@ -36,7 +36,13 @@
 //"分类数组":"<a&&a>",
 //"分类标题":">&&</",
 //"分类ID":"href=\"/&&\"",
-  
+
+"搜索数组":"<a class=\"stui-vodlist__thumb&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+
+
 "播放二次截取": "<div class=\"stui-vodlist__detail\">&&</div>",
 "播放数组": "<h4 class=\"title\"&&</h4>",
 "列表二次截取": "",
